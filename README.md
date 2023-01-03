@@ -14,3 +14,5 @@ pip install pandas
 pip install requests
 
 After importing the libraries, run data_acquisition.py for data collection and main.py to view the user interface.
+
+Data acquisition process takes approximately 10 minutes.
