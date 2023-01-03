@@ -6,8 +6,11 @@ Download the zip file and extract it to the folder. Then, run the folder in the 
 You need to import the necessary libraries to run the application.
 
 pip install pyqt5
+
 pip install beautifulsoup4
+
 pip install pandas
+
 pip install requests
 
 After importing the libraries, run data_acquisition.py for data acquisition and main.py for the entire interface.
