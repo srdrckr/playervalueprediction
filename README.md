@@ -13,4 +13,4 @@ pip install pandas
 
 pip install requests
 
-After importing the libraries, run data_acquisition.py for data acquisition and main.py for the entire interface.
+After importing the libraries, run data_acquisition.py for data collection and main.py to view the user interface.
